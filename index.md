@@ -35,9 +35,9 @@ Supported arguments:
 
 ## 技能
 
-**编程语言：**C/C++, Python, HTML, CSS  
-**编程工具：**Qt, Vue, Django  
-**语言：**英语 (IELTS 6.5)  
+- **编程语言：**C/C++, Python, HTML, CSS  
+- **编程工具：**Qt, Vue, Django  
+- **语言：**英语 (IELTS 6.5)  
 
 ## 项目经历
 
